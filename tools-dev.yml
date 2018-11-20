@@ -1,6 +1,6 @@
 hello: Hello World from GIT 2
 server:
-    port: 8762
+    port: 9000
 management:
     security:
         enabled: false
