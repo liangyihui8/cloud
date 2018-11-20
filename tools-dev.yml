@@ -1,3 +1,6 @@
 hello: Hello World from GIT
 server:
     port: 8762
+management:
+    security:
+        enabled: false
