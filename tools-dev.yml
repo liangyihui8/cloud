@@ -1,4 +1,4 @@
-hello: Hello World from GIT
+hello: Hello World from GIT 2
 server:
     port: 8762
 management:
